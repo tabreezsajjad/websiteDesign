@@ -108,10 +108,11 @@ footer{
 		width:100%;
 	}
 	.main-text{
-		margin:auto;
+	margin:auto;
 	}
+	
 	h1{
-     font-size: 1em;
+     font-size: 0.5em;
 	}
 	.s1 img{
 	float:left;	
